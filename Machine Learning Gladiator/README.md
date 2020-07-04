@@ -16,12 +16,12 @@ In this current technology-driven world, machine learning is a prominent area wh
 
 ### Algorithms Used:
 
--Logistic Regression(LR)
--Linear Discriminant Analysis(LDA)
--K-Nearest Neighbors(KNN)
--Classification and Regression Trees(CART)
--Gaussian Naive Bayes(GNB)
--Support Vextor Machines(SVM)
+* Logistic Regression(LR)
+* Linear Discriminant Analysis(LDA)
+* K-Nearest Neighbors(KNN)
+* Classification and Regression Trees(CART)
+* Gaussian Naive Bayes(GNB)
+* Support Vextor Machines(SVM)
 
 
 #### 1.Logistic Regression:
