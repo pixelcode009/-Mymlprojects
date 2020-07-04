@@ -30,16 +30,16 @@ It is a part of supervised learning that has capability of predicting the probab
 #### 2.Logistic Discriminant Analysis:
 This algorithm usually helps in the analysis of pattern or model changes.
 
-### K-Nearest Neighbor:
+### 3.K-Nearest Neighbor:
 K Nearest Neighbor usually used in the classification problems where a particular factor is tourism and all the points nearest to the factor are selected.
 
-### Classification and Regression Trees:
+### 4.Classification and Regression Trees:
 It explains how a target variable's values can be predicted based on other values. It is a decision tree where each fork is a split in a predictor variable and each node at the end has a prediction for the target variable.
 
-### Gaussian Naive Bayes :
+### 5.Gaussian Naive Bayes :
 One of the easiest ways of selecting the most probable hypothesis given the data that we have that we can use as our prior knowledge about the problem. Bayes’ Theorem provides a way that we can calculate the probability of a hypothesis given our prior knowledge.
 
-### Support Vector Machines:
+### 6.Support Vector Machines:
 Support Vector Machine” (SVM) is a supervised machine learning algorithm which can be used for both classification or regression challenges. However,  it is mostly used in classification problems. In the SVM algorithm, we plot each data item as a point in n-dimensional space,we taking n=1,because it is a very basic project I've worked with and taking "species" as key feature.
 
 
