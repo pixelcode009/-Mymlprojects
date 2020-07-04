@@ -66,7 +66,7 @@ Here are the steps for building the first random forest model using Scikit-Learn
 
 10.Save model for further use.
 
-In this Python Machine Learning Project, I've demonstrated how to use Scikit-Learn to build and tune a supervised learning model. I've been training and tuning a random forest for wine quality based on traits like acidity, residual sugar, and alcohol concentration.
+In this Python Machine Learning Project, I've demonstrated how to use Scikit-Learn to build and tune a supervised learning model.
 
 #### Why Scikit-Learn for machine learning?
 
