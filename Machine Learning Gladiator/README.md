@@ -90,7 +90,7 @@ It also helped me practice:
 
 -Pre-processing
 
-Transformations
+-Transformations
 
 -Feature engineering
 
