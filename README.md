@@ -1,5 +1,5 @@
-#My Machine Learning Projects:
+**My Machine Learning Projects:**
 
--Machine Learning Gladiator Thesis
+**-Machine Learning Gladiator Thesis
 -Data Analysis Mini Project
--Face Recognition and Facial Landmarks Identification
+-Face Recognition and Facial Landmarks Identification**
